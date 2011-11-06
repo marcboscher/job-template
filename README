@@ -1,0 +1,27 @@
+Job Template 
+------------
+
+A simple HTML5 web page template for a posting job offer on the web, especially offers for web-related technical jobs.
+
+Most job offers are files (pdf or even doc), which are fine for emailing around, but horrible for linking and viewing in browsers (especially mobile). Plus, you can't tweet a pdf. Job offers on web pages are usually just pastes of the word document: they look horrible.
+
+In a market where hiring is very hard, a job offer must be attractive, both visually and technically. This template attempts to do just that.
+
+
+Objectives
+----------
+
+- Start with the content: the job offer is the most important element, not what goes around it (technology or look and feel)
+- Semantically correct: use HTML5 elements appropriately to convey semantics of content
+- Clean, simple design: the look and feel must be subtle and exists only to emphasize the content
+- Simple to use: creating a new job offer from the template must be quick and must not require skills beyond editing basic HTML5 markup (from a sample).
+- Technically cutting edge
+	- Use HTML5 and CSS3
+	- Use custom fonts (Font Squirrel)
+- Support all browsers, but really focus on modern HTML5 browsers (FF 6, Chrome, Safari, IE9, etc)
+- Responsive design: adapt to screen size to be viewable from mobile screens to large monitors
+- Lightweight: fast to load
+- Printable: to pdf or printer. Page breaks must be at clean place.
+- Hooks for some attitude
+	- If you don't have a modern HTML5 browser, display a message: You seem to have a pretty old browser. If it's because your current employer forces you to use it, then it really is time for you to find a new job. If it's your own choice, then please don't apply for this job
+- Learning project: mini-project for me to catch up on the latest technologies: HTML5, CSS3, font-embedding, github
