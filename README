@@ -25,3 +25,12 @@ Objectives
 - Hooks for some attitude
 	- If you don't have a modern HTML5 browser, display a message: You seem to have a pretty old browser. If it's because your current employer forces you to use it, then it really is time for you to find a new job. If it's your own choice, then please don't apply for this job
 - Learning project: mini-project for me to catch up on the latest technologies: HTML5, CSS3, font-embedding, github
+
+
+Todo
+----
+- Put a minimalist but clean look and feel
+- Add links to web site, flikr, linked in, etc
+- Add company logo
+- Add navigational aid/footer that is always visible
+- switch to a grid layout that adds columns based on window width
