@@ -1,0 +1,9 @@
+
+body {
+  background: url("img/test.jpg") #c6c6c6 top left no-repeat;
+}
+
+p {
+  border: 1px solid red;
+  background-image: url("img/social_icons/16/linkedin.png");
+}
