@@ -203,12 +203,15 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 
 body {
-  font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-  color: #333;
+  font-family: 'RobotoRegular', Helvetica, Helvetica Neue, Arial, sans-serif;
+  color: #73655A;
+  background-color: #F7F7F7;
 }
 
-h1 {
+h1, h2, h3, h4, h5 {
+  font-color: #594E46;
   font-weight: normal;
+  font-family:  'BrawlerRegular', Georgia, Times, serif;
 }
 
 
@@ -219,37 +222,27 @@ h1 {
 }
 
 #header-container {
-  background-color: #f16529;
-  border-bottom: 20px solid #e44d26;
+  background-color: #FFF;
+  border-bottom: 20px solid #E76D13;
   margin-top: 0px;
   margin-bottom: 10px;
   padding-top: 0px;
-  /*	-webkit-box-shadow:0 40px 40px -40px #AAA;
-	   -moz-box-shadow:0 40px 40px -40px #AAA;
-	        box-shadow:0 40px 40px -40px #AAA;*/
-}
-
-#header-container {
-  background-color: #f16529;
-  border-bottom: 20px solid #e44d26;
-  margin-top: 0px;
-  margin-bottom: 10px;
-  padding-top: 0px;
-  /*  -webkit-box-shadow:0 40px 40px -40px #AAA;
+  padding-bottom: 3px;
+    -webkit-box-shadow:0 40px 40px -40px #AAA;
      -moz-box-shadow:0 40px 40px -40px #AAA;
-          box-shadow:0 40px 40px -40px #AAA;*/
+          box-shadow:0 40px 40px -40px #AAA;
 }
 
 
 #header-container h1 {
   margin: 0px;
   padding: 0px;  
-  font-size: 3.5em;
-  color: white;
+  font-size: 2.5em;
 }
 
 #main {
-  font: 1.1em/1.5em Helvetica, Helvetica Neue, Arial;
+  font-size: 1.1em;
+  line-height: 1.7em;
 }
 
 article section {
@@ -257,23 +250,25 @@ article section {
 }
 
 article section header h1 {
-  font: 1.5em Helvetica, Helvetica Neue, Arial;
+  font-size: 1.5em;
+  font-weight: normal;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
 article section header h1 a {
-  color: #777;
+  color: #594E46;
 }
 
 article section ul li {
-  padding-bottom: 3px;
+  padding-bottom: 7px;
   list-style-type: square;
+  line-height: 1.5em;
 }
 
 #footer-container {
-  background-color: #f16529;
-  border-top: 20px solid #e44d26;
+  background-color: #FFF;
+  border-top: 20px solid #E76D13;
   margin-top: 50px;
   padding-bottom: 20px;
 }

@@ -29,8 +29,11 @@ Objectives
 
 Todo
 ----
-- Put a minimalist but clean look and feel
+- Put a minimalist but clean look and feel: type, colors
 - Add links to web site, flikr, linked in, etc
 - Add company logo
 - Add navigational aid/footer that is always visible
 - switch to a grid layout that adds columns based on window width
+- indicate job location
+- + share button 
+- optimize: reduce number of linked file, only embed needed fonts
