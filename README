@@ -32,5 +32,6 @@ Todo
 - Add animation at first page load
 - Add navigational aid/footer that is always visible
 - switch to a grid layout that adds columns based on window width
+- media query to reduce logo size based on window size. Make it work on my xperia mini!
 - + share button 
 - optimize: reduce number of linked file, only embed needed fonts

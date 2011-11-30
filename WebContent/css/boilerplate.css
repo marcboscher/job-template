@@ -290,7 +290,8 @@ h1, h2, h3, h4, h5 {
 img#header-logo {
   float: right;
   max-width: 200px;
-  max-heiht: 40px;
+  max-height: 40px;
+  width: 40%;
   padding-top: 6px;
 }
 
